@@ -1,6 +1,6 @@
 # Food-Delivery-App-React-Native
 food delivery application that revolutionizes the way you order and enjoy your favorite meals. With an emphasis on speed, convenience.    
-![](https://github.com/Hassan-Elsayed10/FoodDelivery/blob/main/App_GIF/FoodDelivery.gif)
+![](https://github.com/Hassan-Elsayed10/FoodDelivery/blob/main/FoodDelivery.gif)
 
 </p>
 
